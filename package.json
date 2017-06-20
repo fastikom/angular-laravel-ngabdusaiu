@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "devDependencies": {
+    "gulp": "^3.8.8"
+  },
+  "dependencies": {
+    "angular-recaptcha": "^2.5.0",
+    "angular-route": "^1.5.0",
+    "angular-ui-bootstrap": "^1.2.4",
+    "bootstrap-sass": "^3.0.0",
+    "laravel-elixir": "^4.0.0"
+  }
+}
